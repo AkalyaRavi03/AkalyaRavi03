@@ -4,7 +4,6 @@
 
 ### 🎓 B.Tech AI & Data Science Student | 💻 Aspiring Software Developer 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Learning+and+building+with+technology+🚀;AI+%7C+Data+Science+%7C+Software+Development;Learn+→+Build+→+Solve+→+Grow" />
 
 <br/>
 

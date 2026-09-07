@@ -119,6 +119,17 @@ HTML • CSS • JavaScript • Bootstrap
 ✨ Exploring creative frontend design and responsive web development.
 
 </td>
+<td width="50%">
+
+## 💰 Personal Finance Tracker
+A full-stack web application built to help users track daily income and expenses, view their balance at a glance, and visualize spending patterns by category.
+
+### ⚙️ Tech Used
+React • Node.js • Express • MongoDB
+
+💡 Learning full-stack development — building REST APIs, connecting a cloud database, and deploying a live web application end-to-end.
+
+</td>
 
 <td width="50%">
 
